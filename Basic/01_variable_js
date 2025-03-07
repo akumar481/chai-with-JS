@@ -1,0 +1,16 @@
+const accountid = 122233
+let accountEmail = "akumar481@rku.ac.in"
+var accountPassword = "123345"
+accountCity = "Bihar"
+
+//account = 2
+
+acconutEmail = "akumar481@rku.ac.in"
+accountPAssword = "3445546"
+accountCity = "Bihar"
+
+console.log(accountid);
+
+
+
+console.table([accountId,accountEmail,accountPassword,accountCity])
